@@ -4,10 +4,10 @@ public class sportstudent extends student {
 	int gracemarks;
 	String sportsName;
 	
-	sportstudent(int rollno,String name, int graceMarks,String sportName)
+	sportstudent(int rollno,String name, int gracemarks,String sportName)
 	{
 		super(rollno,name,marks);
-		this.graceMarks=graceMarks;
+		this.gracemarks=gracemarks;
 		this.sportsName=sportsName;
 		
 	}
