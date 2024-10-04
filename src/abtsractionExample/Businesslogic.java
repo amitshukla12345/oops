@@ -11,7 +11,7 @@ class Weekdays extends Businesslogic
 		System.out.println("Wed20");
 	}
 	}
-class WeekEnd extends Businessl ogic
+class WeekEnd extends Businesslogic
 {
 	void coupons()
 	{
