@@ -23,6 +23,12 @@ public class Example6 {
 		 sb.append("World");
 		 System.out.println(sb);
 		 
+		 System.out.println("-------------------------------------");
+		 
+		 sb.delete(0, 15);
+		 System.out.println(sb);
+		 
+		 
 		 
 		 
 	}
