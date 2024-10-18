@@ -1,7 +1,8 @@
 package learncollection;
 
-public class Product {
-
+//public class Product implements Comparable<Product> {
+public class Product
+{
 	private int id;
 	private String name;
 	private int price;
@@ -37,7 +38,6 @@ public class Product {
 	public String toString() {
 		return "Product [id=" + id + ", name=" + name + ", price=" + price + "]";
 	}
-	
 	
 	
 }
