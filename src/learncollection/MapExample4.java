@@ -58,13 +58,7 @@ public class MapExample4 {
 		System.out.println(map);
 		
 		
-		
-
-
-		
-		
-		
-		
+	
 		
 	}
 
