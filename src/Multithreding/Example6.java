@@ -18,6 +18,7 @@ public class Example6 {
 			 }
 			 
 		 });
+		 
 		 t1.start();
 		 t2.start();
 		 
