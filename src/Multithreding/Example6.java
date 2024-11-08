@@ -19,6 +19,7 @@ public class Example6 {
 			 
 		 });
 		 
+		 
 		 t1.start();
 		 t2.start();
 		 
@@ -26,6 +27,7 @@ public class Example6 {
 		 t2.join();
 		 
 		 System.out.println(counter.count);
+		 
 		 
 		 
 	}
